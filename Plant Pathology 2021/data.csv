@@ -1,0 +1,102 @@
+image,labels,groundTruth,scab,frog_eye_leaf_spot,rust,complex,powdery_mildew
+a8d54d0d96517ab3.jpg,scab ,scab ,92.13%,2.22%,0.64%,1.92%,0.40%
+ac6902fd1f0f3ce0.jpg,healthy,healthy,0.56%,0.17%,0.04%,0.14%,0.17%
+d4b7ea94e1c509e2.jpg,healthy,healthy,1.24%,6.57%,0.80%,1.19%,0.45%
+c780633f9d9d2970.jpg,rust ,rust ,1.29%,1.93%,98.65%,3.54%,0.06%
+a506c47f0f2d3d61.jpg,healthy,healthy,0.54%,0.55%,0.03%,0.06%,0.06%
+d4d8689596df6b80.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,5.42%,91.33%,1.43%,2.41%,0.22%
+edd8cfc45e503252.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,3.20%,86.93%,0.95%,11.50%,0.68%
+9ab326c1951acb7a.jpg,powdery_mildew ,powdery_mildew ,0.36%,0.32%,0.02%,0.40%,99.96%
+f728e036d729a0ad.jpg,rust ,rust ,1.03%,0.82%,99.54%,1.71%,0.04%
+fce318c6518fd20e.jpg,scab ,scab ,72.37%,1.82%,0.38%,0.85%,0.28%
+ab89d542c8cb2dc7.jpg,healthy,healthy,0.33%,0.11%,0.04%,0.14%,0.12%
+fd014f427ee2b807.jpg,frog_eye_leaf_spot complex ,frog_eye_leaf_spot ,21.89%,56.93%,1.66%,51.06%,0.96%
+908749cd1f2be553.jpg,rust ,rust ,3.47%,4.69%,88.33%,20.30%,0.40%
+8a57ba815538fce1.jpg,healthy,healthy,1.99%,0.12%,0.05%,0.15%,0.14%
+e1c5fafb48fcc100.jpg,healthy,healthy,0.57%,0.22%,0.10%,0.13%,0.09%
+85973e8072fad507.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,4.75%,91.57%,2.16%,4.40%,0.17%
+af80b4d6560afa4d.jpg,healthy,healthy,3.52%,1.27%,0.37%,1.63%,0.50%
+f8a583879d3ec1d0.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,10.15%,92.93%,0.68%,4.99%,0.11%
+dc6984d6ae338399.jpg,frog_eye_leaf_spot complex ,frog_eye_leaf_spot complex ,9.23%,73.88%,0.75%,52.32%,0.44%
+95907cf6e46c988d.jpg,scab ,scab ,96.76%,1.07%,0.22%,1.31%,0.19%
+f878a7109f881cd7.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,8.27%,87.00%,2.08%,5.02%,0.40%
+f56cc3c27e0f3230.jpg,scab ,scab ,61.16%,6.37%,0.97%,18.76%,5.51%
+805763bc63dc5ec8.jpg,healthy,healthy,3.60%,0.69%,0.30%,1.19%,1.25%
+f1f15bcbe19086c4.jpg,scab ,scab ,95.70%,0.20%,0.05%,0.28%,0.56%
+a5d042c32bc737ab.jpg,rust ,rust ,0.66%,0.66%,99.60%,1.77%,0.02%
+e222bb4f4d846cdc.jpg,complex ,complex ,9.35%,13.27%,0.31%,93.11%,21.03%
+80e0699f1d1b373d.jpg,rust ,rust ,2.35%,18.00%,89.09%,10.11%,0.17%
+fdb6c0c9c5c21e07.jpg,scab ,scab ,95.62%,0.48%,0.14%,0.53%,2.79%
+a16554f4d59bb08b.jpg,healthy,healthy,4.22%,0.30%,0.08%,0.28%,0.35%
+d57b624f842a8db8.jpg,rust ,rust ,6.37%,0.72%,99.40%,2.14%,0.10%
+fd77c1db682d0520.jpg,complex ,complex ,16.68%,22.16%,2.07%,72.83%,8.35%
+e10b9415d2507e7f.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,3.44%,97.87%,0.23%,0.98%,0.04%
+d91f629cbf85048b.jpg,healthy,healthy,1.05%,0.10%,0.03%,0.10%,0.14%
+bcc2d02d46b47fb0.jpg,scab ,scab ,93.08%,3.06%,0.36%,2.37%,0.43%
+c56b342dd22b117b.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,2.21%,99.07%,0.08%,0.71%,0.02%
+b8ac82edcd8d6c4a.jpg,healthy,healthy,1.45%,0.24%,0.03%,0.08%,0.07%
+ccaec1876b61f498.jpg,complex ,complex ,14.33%,42.00%,4.78%,70.94%,0.89%
+aa3a9ac8c8d6bd4a.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,6.02%,85.90%,1.92%,7.51%,0.41%
+f8f5e895898125e6.jpg,healthy,healthy,24.04%,3.05%,1.36%,3.29%,2.20%
+e8b98670c05f7bc4.jpg,scab ,scab ,97.81%,2.63%,0.26%,1.85%,0.14%
+8d8a3de84bdca52c.jpg,powdery_mildew ,powdery_mildew ,2.12%,1.08%,0.13%,1.58%,99.75%
+93a7c1dd2fe04f20.jpg,healthy,healthy,1.22%,0.37%,0.24%,0.40%,0.28%
+d9c22dfc4fb51091.jpg,scab ,scab ,84.52%,13.23%,1.08%,3.98%,1.52%
+ab2317505badcbc1.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,2.20%,97.84%,0.32%,0.99%,0.05%
+cd668611cd84e9de.jpg,powdery_mildew ,powdery_mildew ,1.00%,0.44%,0.12%,1.48%,99.66%
+ace09ace0d38b2f3.jpg,scab ,scab ,87.86%,6.77%,0.89%,5.38%,0.70%
+adfd80cbd24dca44.jpg,complex ,complex ,20.29%,28.66%,0.43%,92.09%,1.22%
+fef4e0b9c3b8c088.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,1.06%,98.88%,0.29%,0.33%,0.03%
+833857d06e6991f6.jpg,healthy,healthy,0.24%,0.25%,0.10%,0.20%,0.48%
+999381af5a507557.jpg,scab ,complex ,78.73%,6.67%,2.64%,22.47%,1.81%
+adfa94a1c242cbb3.jpg,complex ,scab frog_eye_leaf_spot ,39.08%,44.97%,1.21%,57.89%,0.93%
+b45e91cf9fb42111.jpg,powdery_mildew ,powdery_mildew ,0.41%,0.18%,0.02%,2.24%,99.81%
+ce861cc40f6fc03f.jpg,powdery_mildew ,powdery_mildew ,0.11%,0.10%,0.01%,1.29%,100.00%
+c7c0c6ceca9741b3.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,0.65%,99.25%,0.15%,0.24%,0.02%
+8eea80a56735749b.jpg,scab ,scab ,75.13%,0.65%,0.12%,0.31%,0.15%
+94a386b68ebfd0d0.jpg,healthy,healthy,2.34%,1.38%,0.49%,0.71%,0.54%
+8a9a1e72a7ac507d.jpg,scab ,scab ,86.95%,1.42%,0.39%,2.35%,1.74%
+f867c1949e923c59.jpg,scab ,scab ,71.21%,7.61%,0.99%,19.93%,1.61%
+8c4a34369a71ebdc.jpg,scab ,scab ,98.89%,0.42%,0.09%,0.61%,0.21%
+c9b04f1816d86cdf.jpg,scab ,scab ,91.50%,21.69%,0.40%,3.16%,0.18%
+87fe9e8178c17861.jpg,rust ,rust ,0.42%,1.03%,99.67%,1.79%,0.02%
+ec3c338d57320f52.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,4.84%,93.07%,1.28%,3.11%,0.20%
+fd8dc00e8576eea0.jpg,healthy,healthy,5.23%,8.69%,0.56%,1.89%,1.40%
+f39913d6da357408.jpg,powdery_mildew ,complex powdery_mildew ,1.86%,1.20%,0.79%,6.36%,99.58%
+ade19a01c33d66da.jpg,scab ,scab ,91.00%,13.24%,0.56%,12.23%,0.36%
+ca1dd4d2ef8c870a.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,0.81%,99.06%,0.08%,0.84%,0.10%
+bd14c2e9d72256b1.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot complex ,10.19%,90.44%,0.56%,14.49%,0.18%
+d5b995c761b00b33.jpg,healthy,healthy,1.48%,0.41%,0.17%,0.59%,0.35%
+b95e8554924979e9.jpg,healthy,healthy,1.75%,0.28%,0.11%,0.34%,0.17%
+d07a5cb07c83e29e.jpg,healthy,healthy,0.35%,1.08%,0.29%,0.35%,0.14%
+d497d48810ec63df.jpg,healthy,healthy,1.29%,1.30%,0.28%,0.71%,0.44%
+adecc8c68c55d855.jpg,rust ,rust ,1.25%,38.30%,52.21%,5.76%,0.79%
+d7b8c3c20f61389b.jpg,healthy,healthy,31.43%,0.16%,0.13%,0.21%,0.22%
+e10ee56ed22a7e21.jpg,healthy,healthy,2.08%,0.18%,0.08%,0.19%,0.22%
+a1c9944a4bbcede2.jpg,healthy,healthy,3.44%,0.41%,0.14%,0.71%,0.22%
+e08a8dc0efa6b267.jpg,healthy,healthy,19.33%,3.54%,0.37%,1.21%,0.80%
+981865bff104ba6d.jpg,rust ,rust ,0.37%,5.65%,97.41%,3.53%,0.08%
+f813e91a910d65de.jpg,healthy,healthy,1.44%,0.54%,0.18%,0.41%,0.37%
+fce0003f189f0d9f.jpg,rust complex ,frog_eye_leaf_spot rust ,4.46%,5.83%,71.38%,59.77%,0.74%
+f8dfd48a80571fa0.jpg,scab ,scab ,95.77%,2.22%,0.22%,3.01%,0.46%
+9ac2b54ca3e968d3.jpg,rust ,rust ,0.22%,0.26%,99.93%,0.99%,0.01%
+a6b6599956c5c46c.jpg,healthy,healthy,2.11%,0.17%,0.25%,0.30%,0.33%
+eaa9a6c04baf4553.jpg,scab ,scab ,95.69%,2.06%,0.33%,3.13%,0.29%
+a42a5a756c25b47d.jpg,scab complex ,scab frog_eye_leaf_spot ,51.35%,39.77%,1.63%,56.97%,0.76%
+f9b1a5a3143e70c5.jpg,scab ,scab ,97.67%,0.59%,0.14%,0.81%,0.31%
+92a58ade0de5278e.jpg,rust ,complex ,2.78%,37.29%,53.58%,15.91%,0.55%
+90f0864f7238bb4f.jpg,powdery_mildew ,complex powdery_mildew ,0.54%,0.54%,0.18%,17.53%,99.96%
+f09cb58762e809cf.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,6.25%,86.24%,1.72%,10.10%,0.39%
+fe1240f69a01adaf.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,1.28%,98.31%,0.25%,0.93%,0.06%
+82fc37c398513727.jpg,healthy,healthy,0.39%,0.33%,0.15%,0.31%,0.14%
+8f2cf0dd844cae4b.jpg,complex ,complex ,27.56%,27.40%,2.27%,73.38%,2.12%
+916e8270ad96dcd3.jpg,complex ,scab frog_eye_leaf_spot complex ,43.54%,46.35%,0.68%,63.50%,0.76%
+fe82c29b82d49cf8.jpg,scab ,scab ,92.76%,3.12%,0.43%,2.52%,0.50%
+8ee1286c79c6771c.jpg,scab ,scab ,96.57%,0.44%,0.09%,0.42%,0.25%
+ecd02d0685adfa33.jpg,powdery_mildew ,powdery_mildew ,0.61%,0.57%,0.04%,0.59%,99.99%
+ef1f80e25fc2e015.jpg,scab ,scab ,97.09%,2.21%,0.24%,2.43%,0.38%
+b59a8a65752642b7.jpg,complex ,scab frog_eye_leaf_spot ,26.64%,49.56%,0.92%,72.25%,0.74%
+fd3d5ac5503e811c.jpg,healthy,healthy,24.02%,0.23%,0.10%,0.39%,0.19%
+84b0d76a22257b6f.jpg,healthy,healthy,0.09%,1.63%,0.19%,0.08%,0.05%
+ab1981fd06e23f8a.jpg,healthy,healthy,8.68%,0.41%,0.28%,0.65%,0.30%
+a59a631bd255e19a.jpg,frog_eye_leaf_spot ,frog_eye_leaf_spot ,6.90%,94.20%,0.72%,2.17%,0.17%
